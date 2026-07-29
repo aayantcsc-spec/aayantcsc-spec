@@ -12,9 +12,11 @@
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-7CF03D?style=for-the-badge&labelColor=0D1117&logo=googlemeet&logoColor=7CF03D" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- ══════════════════════ ABOUT ══════════════════════ -->
 
-## 💫 About Me
+## 💫 About Me &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 
 <img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
@@ -51,6 +53,8 @@ motto: "Success isn't built in a day. It's built every day."
 
 <br clear="right"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- ══════════════════════ CONNECT ══════════════════════ -->
 
 ## 🌐 Connect With Me
@@ -63,9 +67,21 @@ motto: "Success isn't built in a day. It's built every day."
   <a href="https://codersnewsnupdatenconcept.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
 
 ## 🚀 Tech Stack
+
+<!-- animated rotating 3D icons -->
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" />
+</p>
 
 <table align="center">
   <tr>
@@ -95,6 +111,8 @@ motto: "Success isn't built in a day. It's built every day."
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- ══════════════════════ STATS ══════════════════════ -->
 
 ## 📊 GitHub Analytics
@@ -112,6 +130,8 @@ motto: "Success isn't built in a day. It's built every day."
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayantcsc-spec&bg_color=0D1117&color=7CF03D&line=7CF03D&point=ffffff&area=true&hide_border=true" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- ══════════════════════ TROPHIES ══════════════════════ -->
 
 ## 🏆 GitHub Trophies
@@ -119,6 +139,8 @@ motto: "Success isn't built in a day. It's built every day."
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aayantcsc-spec&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ══════════════════════ PROJECTS ══════════════════════ -->
 
@@ -141,6 +163,8 @@ motto: "Success isn't built in a day. It's built every day."
   <a href="https://github.com/aayantcsc-spec?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=7CF03D" /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- ══════════════════════ CERTIFICATIONS ══════════════════════ -->
 
 ## 📜 Certifications & Simulations
@@ -154,6 +178,8 @@ motto: "Success isn't built in a day. It's built every day."
   <img src="https://img.shields.io/badge/Tally-Professional-725BFF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MS--CIT-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ══════════════════════ PUBLICATIONS ══════════════════════ -->
 
@@ -178,6 +204,8 @@ motto: "Success isn't built in a day. It's built every day."
   <img src="https://img.shields.io/badge/Marathi-Professional-7CF03D?style=for-the-badge&labelColor=0D1117" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- ══════════════════════ QUOTE ══════════════════════ -->
 
 ## 💡 Dev Quote
@@ -196,7 +224,11 @@ motto: "Success isn't built in a day. It's built every day."
 
 <!-- ══════════════════════ FOOTER ══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7CF03D,50:1a4d2e,100:0D1117&height=120&section=footer" />
+<p align="center">
+  <img src="https://media.giphy.com/media/dwyLCEnO4j4KTb52hd/giphy.gif" width="150" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7CF03D,50:1a4d2e,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&fontAlignY=70&animation=twinkling" />
 
 <p align="center">
   ⭐ <b>If you like my work, consider starring my repositories — it means a lot!</b> ⭐
