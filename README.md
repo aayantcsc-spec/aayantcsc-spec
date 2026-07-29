@@ -189,15 +189,42 @@ motto: "Success isn't built in a day. It's built every day."
 <!-- ══════════════════════ SNAKE ══════════════════════ -->
 
 ## 🐍 Contribution Snake
+# .github/workflows/snake.yml
+# Generates the contribution snake and pushes it to the "output" branch.
+name: Generate Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aayantcsc-spec/aayantcsc-spec/output/github-contribution-grid-snake-dark.svg" />
-</p>
+on:
+  # run automatically once every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  # allow running it by hand from the Actions tab
+  workflow_dispatch:
+  # also run whenever you push to main
+  push:
+    branches:
+      - main
 
-<!-- ══════════════════════ FOOTER ══════════════════════ -->
+permissions:
+  contents: write
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7CF03D,50:1a4d2e,100:0D1117&height=120&section=footer" />
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
 
-<p align="center">
-  ⭐ <b>If you like my work, consider starring my repositories — it means a lot!</b> ⭐
-</p>
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
