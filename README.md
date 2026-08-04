@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-7CF03D?style=for-the-badge&labelColor=0D1117&logo=googlemeet&logoColor=7CF03D" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=header&animation=scaleIn" />
 
 ## 💫 About Me &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" />
 
@@ -51,7 +51,7 @@ motto: "Success isn't built in a day. It's built every day."
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:1a4d2e,100:7CF03D&height=100&section=header&animation=twinkling" />
 
 ## 🌐 Connect With Me
 
@@ -68,12 +68,11 @@ motto: "Success isn't built in a day. It's built every day."
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2200&pause=800&color=7CF03D&center=true&vCenter=true&width=600&lines=Python+%C2%B7+Java+%C2%B7+JavaScript;Flutter+%C2%B7+Flask+%C2%B7+Node.js;MySQL+%C2%B7+SQLite+%C2%B7+Firebase;Advanced+Excel+%C2%B7+Power+BI+%C2%B7+SQL" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,github,dart" />
 </p>
 
 <table align="center">
@@ -114,7 +113,7 @@ motto: "Success isn't built in a day. It's built every day."
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayantcsc-spec&hide_border=true&background=0D1117&stroke=7CF03D&ring=7CF03D&fire=7CF03D&currStreakLabel=7CF03D&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=aayantcsc-spec&hide_border=true&background=0D1117&stroke=7CF03D&ring=7CF03D&fire=7CF03D&currStreakLabel=7CF03D&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" />
 </p>
 
 <p align="center">
@@ -129,7 +128,7 @@ motto: "Success isn't built in a day. It's built every day."
   <img src="https://github-profile-trophy.vercel.app/?username=aayantcsc-spec&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a4d2e,100:7CF03D&height=90&section=header&animation=fadeIn" />
 
 ## 🚀 Featured Projects
 
@@ -188,7 +187,7 @@ motto: "Success isn't built in a day. It's built every day."
 ## 💡 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Success%20isn%27t%20built%20in%20a%20day.%20It%27s%20built%20every%20day." />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1500&color=7CF03D&center=true&vCenter=true&width=700&lines=%22Success+isn%27t+built+in+a+day.%22;%22It%27s+built+every+day.%22" />
 </p>
 
 ## 🐍 Contribution Snake
