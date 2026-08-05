@@ -1,197 +1,133 @@
-<div align="center">
-
 # 👋 Hello, I'm Aayan Shaikh
 
-### 💻 Full Stack Developer • 🤖 AI Enthusiast • 📱 Flutter Developer
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;AI+%26+Machine+Learning;Business+%26+Data+Analyst;Always+Learning+Something+New+🚀" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Flutter+Developer;AI+%26+Machine+Learning;Business+%26+Data+Analyst;Always+Learning+🚀"/>
 
 <img src="https://komarev.com/ghpvc/?username=aayantcsc-spec&style=for-the-badge&color=2563EB"/>
-
-<br><br>
-
-<a href="https://github.com/aayantcsc-spec">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656986-4a9c5b22-5d4b-4f7b-9b47-6d8b6e56cbf7.gif" width="100%">
+</p>
+
+## 🚀 About Me
 
 ```yaml
-👤 Name:
-Aayan Abdul Mannan Shaikh
+Name: Aayan Abdul Mannan Shaikh
+Location: Mumbai, India 🇮🇳
+Education: B.Sc. Information Technology
+Focus:
+  - Full Stack Development
+  - Flutter
+  - AI & Machine Learning
+  - Data Analytics
+Open To:
+  - Internships
+  - Open Source
+  - Collaborations
+```
 
-📍 Location:
-Mumbai, India 🇮🇳
+## 💡 What I Build
 
-🎓 Education:
-B.Sc. Information Technology
+| 🤖 AI | 📱 Flutter | 🌐 Web |
+|---|---|---|
+| NLP, ML Apps | Firebase Apps | Full Stack Projects |
 
-💼 Looking For:
-• Software Developer Internship
-• Flutter Development
-• AI/ML Projects
-• Open Source Collaboration
+| ☁ Cloud | 📊 Analytics | 🚀 Open Source |
+|---|---|---|
+| Firebase | SQL, Power BI | Learning & Building |
 
-🌱 Currently Learning:
-• Artificial Intelligence
-• Flutter
-• Cloud Computing
-• Data Analytics
-• System Design
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/240885109-efb7d8c4-95d5-4e69-bd70-9311d4e5d5a9.gif" width="420">
+</p>
 
-⚡ Fun Fact:
-I love building projects that solve real-world problems.
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,flutter,js,html,css,firebase,mysql,git,github,vscode,figma,postman&perline=5"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack |
+|---|---|
+| 🤖 Smart AI Resume Analyzer | Python · Flask · NLP |
+| 📱 Creva Wellness App | Flutter · Firebase |
+| 📊 Business Analytics Dashboard | Power BI · SQL |
+| 🌐 Portfolio Website | HTML · CSS · JavaScript |
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=aayantcsc-spec&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayantcsc-spec&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> Enable the GitHub Action first, then uncomment below.
+
+```md
+<!--
+<p align="center">
+<img src="https://raw.githubusercontent.com/aayantcsc-spec/aayantcsc-spec/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+-->
 ```
 
 ---
 
-# 💡 What I Do
+## 📜 Certifications
 
-<div align="center">
-
-| 🤖 AI & ML | 📱 Flutter | 🌐 Full Stack |
-|:---------:|:----------:|:-------------:|
-| AI Applications, NLP, Python | Android & Cross Platform Apps | Responsive Web Applications |
-
-| 📊 Analytics | ☁ Cloud | 🚀 Open Source |
-|:------------:|:--------:|:--------------:|
-| SQL, Power BI, Python | Firebase & Cloud Services | Learning & Collaboration |
-
-</div>
+- NISM SEBI Investor Certification
+- JPMorgan Job Simulation
+- Deloitte Australia Job Simulation
+- Tata Imagination Challenge
 
 ---
 
-# 🛠 Tech Stack
+## 🎯 Goals
 
-### Languages
+- Build AI Products
+- Publish Flutter Apps
+- Contribute to Open Source
+- Grow as a Software Engineer
+
+---
+
+## 📫 Connect
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,javascript,php"/>
-
-</p>
-
-### Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter"/>
-
-</p>
-
-### Backend & Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=firebase,mysql,nodejs"/>
-
-</p>
-
-### Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aayantcsc-spec&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayantcsc-spec&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 Smart AI Resume Analyzer | ATS Resume Analyzer with AI Suggestions | Python • Flask • NLP |
-| 📱 Creva Wellness App | Wellness & Mood Tracking Mobile App | Flutter • Firebase |
-| 📊 Business Analytics Dashboard | Interactive Business Insights Dashboard | Power BI • SQL |
-| 🌐 Portfolio Website | Personal Portfolio with Modern UI | HTML • CSS • JavaScript |
-
----
-
-# 🌱 Currently Learning
-
-- 🤖 Artificial Intelligence
-- 📱 Flutter Development
-- ☁ Cloud Computing
-- 📊 Data Analytics
-- ⚙ System Design
-- 🔐 Backend Development
-
----
-
-# 📜 Certifications
-
-- 🏅 NISM SEBI Investor Certification
-- 🏅 JPMorgan Investment Banking Job Simulation
-- 🏅 Deloitte Australia Job Simulation
-- 🏅 Tata Imagination Challenge
-
----
-
-# 🎯 Goals for 2026
-
-- ⭐ Publish impactful open-source projects
-- 📱 Launch Flutter applications
-- 🤖 Build AI-powered products
-- 🌍 Contribute to Open Source
-- 💼 Secure a Software Development role
-
----
-
-# 💬 Quote
-
-> **"Every line of code is a step toward creating something meaningful."**
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/aayantcsc-spec">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/aayantcsc-spec">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
@@ -200,10 +136,8 @@ I love building projects that solve real-world problems.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-*"Building innovative solutions, one commit at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,100:38BDF8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=Happy%20Coding!&fontSize=34&color=0:2563EB,100:38BDF8"/>
 
 </div>
