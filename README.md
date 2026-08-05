@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi there 👋 I'm Aayan Shaikh
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Flutter+Developer;Business+%26+Data+Analyst;Always+Learning+🚀" />
